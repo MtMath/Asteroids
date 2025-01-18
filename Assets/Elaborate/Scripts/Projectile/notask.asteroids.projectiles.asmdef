@@ -1,0 +1,16 @@
+{
+    "name": "notask.asteroids.projectiles",
+    "rootNamespace": "",
+    "references": [
+        "GUID:6baed593ef0a6924b8120eb441b63e75"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

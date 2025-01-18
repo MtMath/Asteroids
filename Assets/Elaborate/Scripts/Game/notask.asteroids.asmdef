@@ -1,0 +1,21 @@
+{
+    "name": "notask.asteroids",
+    "rootNamespace": "",
+    "references": [
+        "GUID:6055be8ebefd69e48b49212b09b47b2f",
+        "GUID:6baed593ef0a6924b8120eb441b63e75",
+        "GUID:9bb041f45473ede43b699ab1a0fe8a4f",
+        "GUID:24aa3c4ae67d62e4eaf8f5dfbef97fda",
+        "GUID:400d49e2b66e6254894063856deb1f4a",
+        "GUID:0d20c2ae0f1d99e4aa9ab25397b8b628"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

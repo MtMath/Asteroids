@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6678876cc25e4dcc805e36e342804b27, type: 3}
+  m_Name: AsteroidContainer
+  m_EditorClassIdentifier: 
+  asteroidSprites:
+  - {fileID: -852813031, guid: cdaab5607d1272d479b225862c7b2461, type: 3}
+  - {fileID: 269921508, guid: cdaab5607d1272d479b225862c7b2461, type: 3}
+  - {fileID: 1667928616, guid: cdaab5607d1272d479b225862c7b2461, type: 3}
+  - {fileID: 1813738038, guid: cdaab5607d1272d479b225862c7b2461, type: 3}
+  asteroidData:
+  - stats: {fileID: 11400000, guid: 6bd36bea206699b41b46723310bf5930, type: 2}
+    size: 2
+    splitCount: 1
+    score: 10
+  - stats: {fileID: 11400000, guid: a4c7b96dff5331b4a9ff4b30a334b0b2, type: 2}
+    size: 1
+    splitCount: 2
+    score: 50
+  - stats: {fileID: 11400000, guid: b155f8205e1892445bdeeb6f98f8428b, type: 2}
+    size: 0
+    splitCount: 0
+    score: 100
